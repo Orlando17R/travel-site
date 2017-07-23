@@ -1300,11 +1300,11 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
         text-indent: -9999px
     }
 
-.site-header--menu-icon
+.site-header__menu-icon
     {
         width: 20px;
         height: 20px;
-        background-color: #fc0000;
+        background-color: #FFF;
         position: absolute;
         top:10px;
         right: 10px;
@@ -1313,7 +1313,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 @media (min-width: 800px)
     {
 
-.site-header--menu-icon
+.site-header__menu-icon
     {
             display:none
     }

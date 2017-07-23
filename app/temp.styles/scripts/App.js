@@ -67,10 +67,12 @@
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-//console.log("prueba")
+//var $ = require('jquery');
 var Person = __webpack_require__(1);
 var juan = new Person("juan","verde");
 juan.greet();
+
+//$("h1").remove();
 
 /***/ }),
 /* 1 */

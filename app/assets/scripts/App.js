@@ -1,9 +1,21 @@
-var $ = require('jquery');
-var Person = require('./modules/Person');
+import MobileMenu from './modules/MobileMenu';
 
-alert('Alerta Gulp Scripts');
+var mobileMenu = new MobileMenu();
 
+/*var $ = require('jquery');
+//var Person = require('./modules/Person');
+import Person from './modules/Person';
+//alert('Alerta Gulp Scripts');
+class Adult extends Person
+{
+    payTaxes()
+    {
+        console.log(this.name + " you own $0 in taxes");
+    }
+}
 var juan = new Person("juan","verde");
 juan.greet();
-
-//$("h1").remove();
+var maria = new Adult("maria","azul");
+maria.greet();
+maria.payTaxes();
+$("h1").remove();*/

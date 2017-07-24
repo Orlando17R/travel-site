@@ -5,5 +5,21 @@ module.exports = {
         {
             path: __dirname + "/app/temp.styles/scripts",
             filename: "App.js"
+        },
+
+    module:
+        {
+            loaders: 
+            [
+                {
+                    loader: 'babel-loader',
+                    query:
+                        {
+                            presets: ['es2015']
+                        },
+                    test: /\.js$/,
+                    exclude: /node_modules/
+                }
+            ]
         }
 }

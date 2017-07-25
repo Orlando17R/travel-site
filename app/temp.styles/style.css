@@ -1524,4 +1524,23 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
     }
     }
 
+.reveal-item
+{
+    opacity:0;
+    -webkit-transition: all 2s ease-out;
+    transition: all 2s ease-out;
+    -webkit-transform: scale(1.5);
+            transform: scale(1.5);
+
+
+}
+
+.reveal-item--is-visible
+    {
+        opacity: 1;
+        -webkit-transform: scale(1);
+                transform: scale(1);
+        
+    }
+
 /***********************************************/

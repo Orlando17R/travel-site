@@ -689,7 +689,7 @@ a
     {
             .page-section--testimonials.lazyloaded
             {
-                background: url('/assets/images/testimonials-bg.jpg') top center no-repeat;
+                background: url('../../assets/images/testimonials-bg.jpg') top center no-repeat;
                 background-size: cover;
             }
     }
@@ -1144,12 +1144,12 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.svg');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.svg');
     }
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--clear-view-escapes 
@@ -1161,7 +1161,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--comment 
@@ -1173,7 +1173,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--facebook 
@@ -1185,7 +1185,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--fire 
@@ -1197,7 +1197,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--globe 
@@ -1209,7 +1209,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--instagram 
@@ -1221,7 +1221,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--mail 
@@ -1233,7 +1233,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--rain 
@@ -1245,7 +1245,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--star 
@@ -1257,7 +1257,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--twitter 
@@ -1269,7 +1269,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--wifi 
@@ -1281,7 +1281,7 @@ INSTEAD EDIT GULP/TEMPLATES/SPRITE  */
 
 .no-svg .icon
     {
-        background-image:url('/assets/images/sprites/sprite-69f19c2e.png');
+        background-image:url('../../assets/images/sprites/sprite-69f19c2e.png');
     }
 
 .icon--youtube 
